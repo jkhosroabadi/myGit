@@ -9,5 +9,6 @@ public class Test {
         System.out.println("checkout to branch1");
         System.out.println("*******************");
         System.out.println("change 1 in branch2");
+        System.out.println("change 2 in branch2");
     }
 }
